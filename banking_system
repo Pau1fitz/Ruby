@@ -1,3 +1,5 @@
+#simple banking system in Ruby
+
 class Account
   attr_reader :name, :balance
   def initialize(name, balance=100)
